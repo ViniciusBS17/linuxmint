@@ -24,3 +24,13 @@ Marca Texto Verde = PERIGO!
 pwd = Mostra em qual diretório você está
 mkdir = criação de diretório
 TAB = preencher
+&& = Se for executado ele executa o segundo
+Echo = Imprimir na tela
+touch = mudar data e hora do arquivo / criação de arquivos
+cat = listar conteúdo do arquivo
+ *cat -n = listar todas as linhas do arquivo
+head = ler cabeçalho
+ *head -n = quantas linhas do arquivo você quer ler
+tail = ler rodapé
+less = leitura
+
